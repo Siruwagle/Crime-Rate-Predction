@@ -1,0 +1,58 @@
+/* <!-- total crime banner ---- --> */
+
+/*.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.child {
+    margin: 30px;
+    padding: 20px;
+    background-color: #111;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    width: 25%;
+}
+
+h2 {
+    font-size: 3vw;
+}
+
+.total-crime-digit {
+    /* margin: 5px; */
+   /* padding: 20px;
+    background-color: #111;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    width: 25%;
+}
+
+/* <!-- total crime banner end ---- --> */
+
+
+/* table representation start */
+ .card-body {
+    overflow-y: scroll;
+    height: 500vh;
+    
+   
+}
+
+h4{
+    text-align: center;
+   
+}
+/* .col{
+    width:800px;
+     margin-left:  300px;
+     margin-right: 400px;;
+   
+} */
+
+
+
+
+/* table representation  end */
